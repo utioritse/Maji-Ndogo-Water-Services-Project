@@ -24,3 +24,4 @@ The project was executed entirely in Power BI, leveraging its data visualization
 
 
 You can view the dashboards [here](url) and [here](URL)
+PDF versions [here](url) and [here](url)
