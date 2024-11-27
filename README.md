@@ -13,9 +13,9 @@ Maji Ndogo is a fictional country in Africa. Their newly elected president, Aziz
 
 
 ## Stakeholders
-The Presidency of Maji Ndogo
-Water source vendors
-The people of Maji Ndogo
+- The Presidency of Maji Ndogo
+- Water source vendors
+- The people of Maji Ndogo
 
 ## Tools Used
 The project was executed entirely in Power BI, leveraging its data visualization and analytical capabilities:
