@@ -21,3 +21,6 @@ Maji Ndogo is a fictional country in Africa. Their newly elected president, Aziz
 The project was executed entirely in Power BI, leveraging its data visualization and analytical capabilities:
 - Visualizations: Designed to present data insights clearly and effectively to stakeholders.
 - DAX formulas which were used to create calculated columns and measures, enabling deeper analysis and accurate estimations.
+
+
+You can view the dashboards [here](url) and here
